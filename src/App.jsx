@@ -44,7 +44,7 @@ function App() {
             <Route path="/signup" element={<SignUp />} />
             <Route path="/forgot-password" element={<ForgotPassword />} />
             <Route path="/reset-password" element={<ResetPassword />} />
-            <Route path="/confirm-sign-up" element={<ConfirmSignUp />} />
+            <Route path="/confirm-signup" element={<ConfirmSignUp />} />
 
             <Route
               path="/profile"
